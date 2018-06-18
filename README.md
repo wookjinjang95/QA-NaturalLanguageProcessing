@@ -10,4 +10,9 @@ that it trains.
   
  ## my_wordnet.py
  
+  This file contains function to synonyms, hypernyms, and hyponyms for all words. This uses WordNet API to look for 
+  similar words for matching sentences.
+ 
  ## dependency.py
+
+  This code has functions to decrypt dependency structure.
